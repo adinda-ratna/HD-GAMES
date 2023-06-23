@@ -6,14 +6,15 @@ async function deploy() {
    deployerAddress = account.address;
    console.log(`Deploying contracts using ${deployerAddress}`);
 
-   //Deploy Catalyst
+   //Deploy CatalystNFT
    console.log();
    console.log(":: DEPLOY NINJACATALYSTNFT");
    const NinjaCatalystNFT = await ethers.getContractFactory('NinjaCatalystNFT');
    const NinjaCatalystNFTInstance = await NinjaCatalystNFT.deploy();
    await NinjaCatalystNFTInstance.renounceOwnership();
 
-   //Deploy Catadi
+   
+   //Deploy Ninja Catalyst
    console.log();
    console.log(":: DEPLOY NINJACATALYST");
    const NinjaCatalyst = await ethers.getContractFactory('NinjaCatalyst');
