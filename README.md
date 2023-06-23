@@ -47,9 +47,9 @@ The  flow of each nft game causes 3 main problems
 - Unity
 
 
-### Smart Contracts on Nautilus Testnet : 
-- [x] Catalyst: [0x6217393DFa39dB5a77Ebbc952a1705935aEC0dDF](https://triton.nautscan.com/triton/search/0x36CcdB3a9e0f8Fa30D07CFf2ff03Cc79b8fF9Fbe)
-- [x] Catadi:  [0x36CcdB3a9e0f8Fa30D07CFf2ff03Cc79b8fF9Fbe](https://triton.nautscan.com/triton/search/0x36CcdB3a9e0f8Fa30D07CFf2ff03Cc79b8fF9Fbe)
+### Smart Contracts on Mantle Testnet : 
+- [x] CatalystNFT: [0x4BE1D71702b45B14297f41B23c747fC717617ea2](https://explorer.testnet.mantle.xyz/address/0x4BE1D71702b45B14297f41B23c747fC717617ea2)
+- [x] Ninja Catalyst:  [0xDF813373a6a483e3Cd968f32Fa19dcbe8953B415](https://explorer.testnet.mantle.xyz/address/0xDF813373a6a483e3Cd968f32Fa19dcbe8953B415)
 
 
 ### Ninja Catalyst Game Prof.
